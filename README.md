@@ -1,8 +1,8 @@
 ## Options
  
-| Table 1
+| Table 1 |
  
-| American call option
+| American call option |
 		1	4	7
 | 35	   5.2224    6.2631    7.1868
 | 40	   1.4623    3.0786    4.1968
