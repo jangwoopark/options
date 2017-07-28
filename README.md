@@ -1,21 +1,22 @@
-## Options
+# Options
+
+## Table 1
+### American call option 
+
+| t  | 1      | 4      | 7      |
+|-------------------------------|
+| 35 | 5.2224 | 6.2631 | 7.1868 |
+| 40 | 1.4623 | 3.0786 | 4.1968 |
+| 45 | 0.1625 | 1.2586 | 2.2472 |
  
-| Table 1 |
- 
-| American call option |
-		1	4	7
-| 35	   5.2224    6.2631    7.1868
-| 40	   1.4623    3.0786    4.1968
-| 45	   0.1625    1.2586    2.2472
- 
-| European call option
+### European call option
  
 |		1	4	7
 | 35	   5.2224    6.2631    7.1868
 | 40	   1.4623    3.0786    4.1968
 | 45	   0.1625    1.2586    2.2472
  
-| Table 3
+Table 3
  
 | Binomial fixed cash dividend American call option
  
