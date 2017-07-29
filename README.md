@@ -1,9 +1,11 @@
 # Options
 
+Some results by running the programs.
+
 ## Table 1
 ### American call option 
 
-| t  | 1      | 4      | 7      |
+|    | 1      | 4      | 7      |
 |----|--------|--------|--------|
 | 35 | 5.2224 | 6.2631 | 7.1868 |
 | 40 | 1.4623 | 3.0786 | 4.1968 |
@@ -11,44 +13,45 @@
  
 ### European call option
  
-|	1 |	4 |	7 |
-| 35	|   5.2224    6.2631    7.1868
-| 40	|   1.4623    3.0786    4.1968
-| 45	|   0.1625    1.2586    2.2472
+|   |	1 |	4 |	7 |
+|---|---|---|---|
+| 35	|   5.2224 |   6.2631  | 7.1868 |
+| 40	|   1.4623 |   3.0786  |  4.1968|
+| 45	|   0.1625 |   1.2586  |  2.2472|
  
-Table 3
+## Table 3
  
-| Binomial fixed cash dividend American call option
+### Binomial fixed cash dividend American call option
  
 |		1	4	7
 | 35	   5.1000    5.7312    6.3249
 | 40	   1.2672    2.6853    3.5469
 | 45	   0.1204    1.0355    1.8170
  
-| Binomial fixed cash dividend European call option
+### Binomial fixed cash dividend European call option
  
 |		1	4	7
 | 35	   5.1000    5.4777    6.0888
 | 40	   1.2672    2.5689    3.4235
 | 45	   0.1204    0.9975    1.7589
  
-| Binomial dividend yield American call option
+### Binomial dividend yield American call option
  
 |		1	4	7
 | 35	   5.1002    5.7346    6.3384
 | 40	   1.2645    2.6826    3.5260
 | 45	   0.1171    1.0309    1.7886
  
-| Binomial dividend yield European call option
+### Binomial dividend yield European call option
  
 |		1	4	7
 | 35	   4.7520    5.4542    6.0512
 | 40	   1.2095    2.5385    3.3598
 | 45	   0.1166    0.9767    1.7024
  
-| Table 5
+## Table 5
  
-| Binomial approximation for a American call option
+### Binomial approximation for a American call option
  
 |	$.5	   1.25%	$1	2.5%	  $2	    5%		$3	7.5%	    $4	     10%
 | 35 1   5.1000    5.1000    5.0892    5.0892    5.0835    5.0835    5.0824    5.0824    5.0820    5.0820
@@ -61,7 +64,7 @@ Table 3
 |      4	1.0355    0.9975    0.9055    0.8724    0.6863    0.6617    0.5103    0.4922    0.3719    0.3582
 |      7	1.8170    1.7589    1.6516    1.5967    1.3556    1.3117    1.0938    1.0566    0.8732    0.8435
  
-| Binomial approximation for a European call option
+### Binomial approximation for a European call option
  
 | 35 1	5.1002    5.1000    5.0896    5.0892    5.0831    5.0835    5.0809    5.0824    5.0801    5.0820
 |     4	5.7346    5.4777    5.3980    5.0892    5.1638    4.3564    5.1047    3.6767    5.0891    3.0546
@@ -73,32 +76,32 @@ Table 3
 |      4	1.0309    0.9975    0.8627    0.8724    0.6112    0.6617    0.4287    0.4922    0.2959    0.3582
 |      7	1.7873    1.7589    1.4541    1.5967    0.9668    1.3117    0.6389    1.0566    0.4139    0.8435
  
-| Table 5
+## Table 5
  
-| Binomial American put option
+### Binomial American put option
  
 |		1	4	7
 | 35	    0.0774    0.6967    1.2182
 | 40	    1.3069    2.4738    3.1563
 | 45	    5.0585    5.6989    6.2321
  
-| Binomial European put option
+### Binomial European put option
  
 |		1	4	7
 | 35	   0.0770    0.6851    1.1862
 | 40	   1.2948    2.4152    3.0440
 | 45	   4.9756    5.5150    5.9502
  
-| Table 6
+## Table 6
  
-| Binomial dividend yield American put option
+### Binomial dividend yield American put option
  
 |		1	4	7
 | 35	   0.1071    0.1842    0.1967
 | 40	   1.5575    1.9028    2.1194
 | 45	   5.4957    5.9185    6.3660
  
-| Binomial dividend yield European put option
+### Binomial dividend yield European put option
  
 |		1	4	7
 | 35	   0.1065    0.1833    0.1960
